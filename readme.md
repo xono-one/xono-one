@@ -1,1 +1,1 @@
-<h1  align="center">WE ARE XONO.ONE.</h1>
+<h1  align="center">XONO.ONE</h1>
