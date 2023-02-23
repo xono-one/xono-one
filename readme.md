@@ -19,19 +19,15 @@
  
 
 ![App Screenshot](https://github.com/xono-one/xono-one/blob/main/7.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
- - [Riddel](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Yassport](https://yassport.org/)
  
 
 ![App Screenshot](https://github.com/xono-one/xono-one/blob/main/13.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
- - [Riddel](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Unit](https://unit.xono.one/)
  
 
 ![App Screenshot](https://github.com/xono-one/xono-one/blob/main/12.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
- - [Riddel](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-
-
-![App Screenshot](https://github.com/xono-one/xono-one/blob/main/5.jpg?raw=true?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
- - [Riddel](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Shinnoki](https://shinnoki.xyz/)
 
 
 # 🛠 Skills
