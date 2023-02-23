@@ -6,7 +6,7 @@
   !npm run www.xono.one
 ```
 # 👨‍💻 Our works
-![App Screenshot](https://github.com/xono-one/xono-one/blob/main/9.jpg?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/xono-one/xono-one/main/9.jpg?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [StabilityDao](https://stabilitydao.org/)
  
 
