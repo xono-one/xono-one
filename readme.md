@@ -1,4 +1,4 @@
-![Logo](https://github.com/xono-one/xono-one/blob/main/Group%201.png)
+![Logo](https://raw.githubusercontent.com/xono-one/xono-one/main/Group%201.png)
 
 ## Web3 full development studio. We've been working since 2017 and creating world-scale projects!
 
@@ -10,23 +10,23 @@
  - [StabilityDao](https://stabilitydao.org/)
  
 
-![Riddel](https://github.com/xono-one/xono-one/blob/main/15.jpg?raw=true?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Riddel](https://raw.githubusercontent.com/xono-one/xono-one/main/15.jpg?raw=true?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Riddel](https://riddel.xono.one/)
  
 
-![Zeroweb](https://github.com/xono-one/xono-one/blob/main/8.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Zeroweb](https://raw.githubusercontent.com/xono-one/xono-one/main/8.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Zeroweb](https://zeroweb.space/)
  
 
-![Yassport](https://github.com/xono-one/xono-one/blob/main/7.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Yassport](https://raw.githubusercontent.com/xono-one/xono-one/main/7.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Yassport](https://yassport.org/)
  
 
-![Unit](https://github.com/xono-one/xono-one/blob/main/13.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Unit](https://raw.githubusercontent.com/xono-one/xono-one/main/13.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Unit](https://unit.xono.one/)
  
 
-![Shinnoki](https://github.com/xono-one/xono-one/blob/main/12.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Shinnoki](https://raw.githubusercontent.com/xono-one/xono-one/main/12.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Shinnoki](https://shinnoki.xyz/)
 
 
