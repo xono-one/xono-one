@@ -6,27 +6,27 @@
   !npm run www.xono.one
 ```
 # 👨‍💻 Our works
-![App Screenshot](https://raw.githubusercontent.com/xono-one/xono-one/main/9.jpg?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![StabilityDao](https://raw.githubusercontent.com/xono-one/xono-one/main/9.jpg?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [StabilityDao](https://stabilitydao.org/)
  
 
-![App Screenshot](https://github.com/xono-one/xono-one/blob/main/15.jpg?raw=true?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Riddel](https://github.com/xono-one/xono-one/blob/main/15.jpg?raw=true?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Riddel](https://riddel.xono.one/)
  
 
-![App Screenshot](https://github.com/xono-one/xono-one/blob/main/8.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Zeroweb](https://github.com/xono-one/xono-one/blob/main/8.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Zeroweb](https://zeroweb.space/)
  
 
-![App Screenshot](https://github.com/xono-one/xono-one/blob/main/7.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Yassport](https://github.com/xono-one/xono-one/blob/main/7.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Yassport](https://yassport.org/)
  
 
-![App Screenshot](https://github.com/xono-one/xono-one/blob/main/13.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Unit](https://github.com/xono-one/xono-one/blob/main/13.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Unit](https://unit.xono.one/)
  
 
-![App Screenshot](https://github.com/xono-one/xono-one/blob/main/12.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
+![Shinnoki](https://github.com/xono-one/xono-one/blob/main/12.jpg?raw=true?raw=true?raw=true/468x300?text=App+Screenshot+Here)
  - [Shinnoki](https://shinnoki.xyz/)
 
 
@@ -36,7 +36,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 - ## Blockchain and smart-contracts
-<p align="left"> <img src="https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png" alt="unreal" width="5%" height="5%"/> </a> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="unreal" width="5%" height="5%"/> </a> <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=024" alt="unreal" width="5%" height="5%"/> <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=024" alt="unreal" width="5%" height="5%"/> <img src="https://cryptologos.cc/logos/near-protocol-near-logo.png?v=024" alt="unreal" width="5%" height="5%"/> <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=024" alt="unreal" width="5%" height="5%"/> <img src="https://cryptologos.cc/logos/tron-trx-logo.png?v=024" alt="unreal" width="5%" height="5%"/> <img src="https://ton.org/download/ton_symbol.png" alt="unreal" width="5%" height="5%"/></p>
+<p align="left"> <img src="https://losmejorescursosde.com/wp-content/uploads/2021/09/solidity.png" alt="unreal" width="40px" height="40px"/> </a> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="unreal" width="40px" height="40px%"/> </a> <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=024" alt="unreal" width="40px" height="40px"/> <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=024" alt="unreal" width="40px" height="40px"/> <img src="https://cryptologos.cc/logos/near-protocol-near-logo.png?v=024" alt="unreal" width="40px" height="40px"/> <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=024" alt="unreal" width="40px" height="40px"/> <img src="https://cryptologos.cc/logos/tron-trx-logo.png?v=024" alt="unreal" width="40px" height="40px"/> <img src="https://ton.org/download/ton_symbol.png" alt="unreal" width="40px" height="40px"/></p>
 
 
 - ## Frontend Development
@@ -49,7 +49,7 @@
 
 - ## Mobile App Development
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/10/Apple_logo_grey.png" alt="android" width="8%" height="8%"/> </a></p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/10/Apple_logo_grey.png" alt="android" width="60px" height="40px"/> </a></p>
 
 - ## Game Engines
 
