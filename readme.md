@@ -9,7 +9,7 @@
 <div >
 <a target="_blank" href="https://www.behance.net/xono-one/projects"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="30px"></a>  
 <a target="_blank" href="https://t.me/vladislav_mindel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30px"></a> 
-<a target="_blank" href="https://www.instagram.com/xono.one/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="30px"
+<a target="_blank" href="https://www.instagram.com/xono.one/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="30px"</a>
 <a target="_blank" href="https://www.instagram.com/xono.one/"><img src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Picture.png" width="30px"></a></div>
 
 
